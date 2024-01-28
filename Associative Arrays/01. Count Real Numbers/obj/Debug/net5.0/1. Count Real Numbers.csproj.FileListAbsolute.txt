@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Associative Arrays\Associative Arrays\bin\Debug\net5.0\1. Count Real Numbers.exe
+C:\Users\usr\source\repos\Associative Arrays\Associative Arrays\bin\Debug\net5.0\1. Count Real Numbers.deps.json
+C:\Users\usr\source\repos\Associative Arrays\Associative Arrays\bin\Debug\net5.0\1. Count Real Numbers.runtimeconfig.json
+C:\Users\usr\source\repos\Associative Arrays\Associative Arrays\bin\Debug\net5.0\1. Count Real Numbers.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Associative Arrays\Associative Arrays\bin\Debug\net5.0\1. Count Real Numbers.dll
+C:\Users\usr\source\repos\Associative Arrays\Associative Arrays\bin\Debug\net5.0\ref\1. Count Real Numbers.dll
+C:\Users\usr\source\repos\Associative Arrays\Associative Arrays\bin\Debug\net5.0\1. Count Real Numbers.pdb
+C:\Users\usr\source\repos\Associative Arrays\Associative Arrays\obj\Debug\net5.0\1. Count Real Numbers.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Associative Arrays\Associative Arrays\obj\Debug\net5.0\1. Count Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Associative Arrays\Associative Arrays\obj\Debug\net5.0\1. Count Real Numbers.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Associative Arrays\Associative Arrays\obj\Debug\net5.0\1. Count Real Numbers.AssemblyInfo.cs
+C:\Users\usr\source\repos\Associative Arrays\Associative Arrays\obj\Debug\net5.0\1. Count Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Associative Arrays\Associative Arrays\obj\Debug\net5.0\1. Count Real Numbers.dll
+C:\Users\usr\source\repos\Associative Arrays\Associative Arrays\obj\Debug\net5.0\ref\1. Count Real Numbers.dll
+C:\Users\usr\source\repos\Associative Arrays\Associative Arrays\obj\Debug\net5.0\1. Count Real Numbers.pdb
+C:\Users\usr\source\repos\Associative Arrays\Associative Arrays\obj\Debug\net5.0\1. Count Real Numbers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\1. Reverse Strings\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.exe
+C:\Users\usr\source\repos\1. Reverse Strings\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.deps.json
+C:\Users\usr\source\repos\1. Reverse Strings\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.runtimeconfig.json
+C:\Users\usr\source\repos\1. Reverse Strings\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.runtimeconfig.dev.json
+C:\Users\usr\source\repos\1. Reverse Strings\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.dll
+C:\Users\usr\source\repos\1. Reverse Strings\2. Repeat Strings\bin\Debug\net5.0\ref\2. Repeat Strings.dll
+C:\Users\usr\source\repos\1. Reverse Strings\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.pdb
+C:\Users\usr\source\repos\1. Reverse Strings\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\1. Reverse Strings\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\1. Reverse Strings\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\1. Reverse Strings\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.AssemblyInfo.cs
+C:\Users\usr\source\repos\1. Reverse Strings\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\1. Reverse Strings\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.dll
+C:\Users\usr\source\repos\1. Reverse Strings\2. Repeat Strings\obj\Debug\net5.0\ref\2. Repeat Strings.dll
+C:\Users\usr\source\repos\1. Reverse Strings\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.pdb
+C:\Users\usr\source\repos\1. Reverse Strings\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\Grocery Shoping\bin\Debug\net5.0\Grocery Shoping.exe
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\Grocery Shoping\bin\Debug\net5.0\Grocery Shoping.deps.json
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\Grocery Shoping\bin\Debug\net5.0\Grocery Shoping.runtimeconfig.json
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\Grocery Shoping\bin\Debug\net5.0\Grocery Shoping.runtimeconfig.dev.json
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\Grocery Shoping\bin\Debug\net5.0\Grocery Shoping.dll
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\Grocery Shoping\bin\Debug\net5.0\ref\Grocery Shoping.dll
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\Grocery Shoping\bin\Debug\net5.0\Grocery Shoping.pdb
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\Grocery Shoping\obj\Debug\net5.0\Grocery Shoping.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\Grocery Shoping\obj\Debug\net5.0\Grocery Shoping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\Grocery Shoping\obj\Debug\net5.0\Grocery Shoping.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\Grocery Shoping\obj\Debug\net5.0\Grocery Shoping.AssemblyInfo.cs
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\Grocery Shoping\obj\Debug\net5.0\Grocery Shoping.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\Grocery Shoping\obj\Debug\net5.0\Grocery Shoping.dll
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\Grocery Shoping\obj\Debug\net5.0\ref\Grocery Shoping.dll
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\Grocery Shoping\obj\Debug\net5.0\Grocery Shoping.pdb
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\Grocery Shoping\obj\Debug\net5.0\Grocery Shoping.genruntimeconfig.cache

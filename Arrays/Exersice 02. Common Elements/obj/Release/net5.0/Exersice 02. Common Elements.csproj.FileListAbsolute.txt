@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\Arrays\Exersice 02. Common Elements\bin\Release\net5.0\Exersice 02. Common Elements.exe
+C:\Users\usr\source\repos\Arrays\Exersice 02. Common Elements\bin\Release\net5.0\Exersice 02. Common Elements.deps.json
+C:\Users\usr\source\repos\Arrays\Exersice 02. Common Elements\bin\Release\net5.0\Exersice 02. Common Elements.runtimeconfig.json
+C:\Users\usr\source\repos\Arrays\Exersice 02. Common Elements\bin\Release\net5.0\Exersice 02. Common Elements.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Arrays\Exersice 02. Common Elements\bin\Release\net5.0\Exersice 02. Common Elements.dll
+C:\Users\usr\source\repos\Arrays\Exersice 02. Common Elements\bin\Release\net5.0\ref\Exersice 02. Common Elements.dll
+C:\Users\usr\source\repos\Arrays\Exersice 02. Common Elements\bin\Release\net5.0\Exersice 02. Common Elements.pdb
+C:\Users\usr\source\repos\Arrays\Exersice 02. Common Elements\obj\Release\net5.0\Exersice 02. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Arrays\Exersice 02. Common Elements\obj\Release\net5.0\Exersice 02. Common Elements.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Arrays\Exersice 02. Common Elements\obj\Release\net5.0\Exersice 02. Common Elements.AssemblyInfo.cs
+C:\Users\usr\source\repos\Arrays\Exersice 02. Common Elements\obj\Release\net5.0\Exersice 02. Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Arrays\Exersice 02. Common Elements\obj\Release\net5.0\Exersice 02. Common Elements.dll
+C:\Users\usr\source\repos\Arrays\Exersice 02. Common Elements\obj\Release\net5.0\ref\Exersice 02. Common Elements.dll
+C:\Users\usr\source\repos\Arrays\Exersice 02. Common Elements\obj\Release\net5.0\Exersice 02. Common Elements.pdb
+C:\Users\usr\source\repos\Arrays\Exersice 02. Common Elements\obj\Release\net5.0\Exersice 02. Common Elements.genruntimeconfig.cache

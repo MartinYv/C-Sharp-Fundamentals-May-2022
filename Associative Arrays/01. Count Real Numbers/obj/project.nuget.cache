@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mKNjhvHXHNoCtnmvMsWMiyoElkSGVrB0/Vovb8C22rjRdmVlIKR8ieOSpnofIR7saKkw7NiyvWjxjod4ojhPRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usr\\source\\repos\\Associative Arrays\\Associative Arrays\\1. Count Real Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lists manipulations basics/1.0.0": {
+        "runtime": {
+          "Lists manipulations basics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lists manipulations basics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

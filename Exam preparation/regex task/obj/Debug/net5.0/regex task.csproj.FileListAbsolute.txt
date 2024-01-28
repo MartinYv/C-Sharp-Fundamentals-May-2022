@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Exam preparation 22\regex task\bin\Debug\net5.0\regex task.exe
+C:\Users\usr\source\repos\Exam preparation 22\regex task\bin\Debug\net5.0\regex task.deps.json
+C:\Users\usr\source\repos\Exam preparation 22\regex task\bin\Debug\net5.0\regex task.runtimeconfig.json
+C:\Users\usr\source\repos\Exam preparation 22\regex task\bin\Debug\net5.0\regex task.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Exam preparation 22\regex task\bin\Debug\net5.0\regex task.dll
+C:\Users\usr\source\repos\Exam preparation 22\regex task\bin\Debug\net5.0\ref\regex task.dll
+C:\Users\usr\source\repos\Exam preparation 22\regex task\bin\Debug\net5.0\regex task.pdb
+C:\Users\usr\source\repos\Exam preparation 22\regex task\obj\Debug\net5.0\regex task.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Exam preparation 22\regex task\obj\Debug\net5.0\regex task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Exam preparation 22\regex task\obj\Debug\net5.0\regex task.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Exam preparation 22\regex task\obj\Debug\net5.0\regex task.AssemblyInfo.cs
+C:\Users\usr\source\repos\Exam preparation 22\regex task\obj\Debug\net5.0\regex task.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Exam preparation 22\regex task\obj\Debug\net5.0\regex task.dll
+C:\Users\usr\source\repos\Exam preparation 22\regex task\obj\Debug\net5.0\ref\regex task.dll
+C:\Users\usr\source\repos\Exam preparation 22\regex task\obj\Debug\net5.0\regex task.pdb
+C:\Users\usr\source\repos\Exam preparation 22\regex task\obj\Debug\net5.0\regex task.genruntimeconfig.cache

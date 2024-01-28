@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Associative Arrays\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.exe
+C:\Users\usr\source\repos\Associative Arrays\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.deps.json
+C:\Users\usr\source\repos\Associative Arrays\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.runtimeconfig.json
+C:\Users\usr\source\repos\Associative Arrays\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Associative Arrays\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.dll
+C:\Users\usr\source\repos\Associative Arrays\02. Odd Occurrences\bin\Debug\net5.0\ref\02. Odd Occurrences.dll
+C:\Users\usr\source\repos\Associative Arrays\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.pdb
+C:\Users\usr\source\repos\Associative Arrays\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Associative Arrays\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Associative Arrays\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Associative Arrays\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.AssemblyInfo.cs
+C:\Users\usr\source\repos\Associative Arrays\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Associative Arrays\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.dll
+C:\Users\usr\source\repos\Associative Arrays\02. Odd Occurrences\obj\Debug\net5.0\ref\02. Odd Occurrences.dll
+C:\Users\usr\source\repos\Associative Arrays\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.pdb
+C:\Users\usr\source\repos\Associative Arrays\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.genruntimeconfig.cache

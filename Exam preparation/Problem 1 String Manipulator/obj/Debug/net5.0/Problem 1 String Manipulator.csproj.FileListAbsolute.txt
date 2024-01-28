@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\Exam preparation 22\Problem 1 String Manipulator\bin\Debug\net5.0\Problem 1 String Manipulator.exe
+C:\Users\usr\source\repos\Exam preparation 22\Problem 1 String Manipulator\bin\Debug\net5.0\Problem 1 String Manipulator.deps.json
+C:\Users\usr\source\repos\Exam preparation 22\Problem 1 String Manipulator\bin\Debug\net5.0\Problem 1 String Manipulator.runtimeconfig.json
+C:\Users\usr\source\repos\Exam preparation 22\Problem 1 String Manipulator\bin\Debug\net5.0\Problem 1 String Manipulator.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Exam preparation 22\Problem 1 String Manipulator\bin\Debug\net5.0\Problem 1 String Manipulator.dll
+C:\Users\usr\source\repos\Exam preparation 22\Problem 1 String Manipulator\bin\Debug\net5.0\ref\Problem 1 String Manipulator.dll
+C:\Users\usr\source\repos\Exam preparation 22\Problem 1 String Manipulator\bin\Debug\net5.0\Problem 1 String Manipulator.pdb
+C:\Users\usr\source\repos\Exam preparation 22\Problem 1 String Manipulator\obj\Debug\net5.0\Problem 1 String Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Exam preparation 22\Problem 1 String Manipulator\obj\Debug\net5.0\Problem 1 String Manipulator.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Exam preparation 22\Problem 1 String Manipulator\obj\Debug\net5.0\Problem 1 String Manipulator.AssemblyInfo.cs
+C:\Users\usr\source\repos\Exam preparation 22\Problem 1 String Manipulator\obj\Debug\net5.0\Problem 1 String Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Exam preparation 22\Problem 1 String Manipulator\obj\Debug\net5.0\Problem 1 String Manipulator.dll
+C:\Users\usr\source\repos\Exam preparation 22\Problem 1 String Manipulator\obj\Debug\net5.0\ref\Problem 1 String Manipulator.dll
+C:\Users\usr\source\repos\Exam preparation 22\Problem 1 String Manipulator\obj\Debug\net5.0\Problem 1 String Manipulator.pdb
+C:\Users\usr\source\repos\Exam preparation 22\Problem 1 String Manipulator\obj\Debug\net5.0\Problem 1 String Manipulator.genruntimeconfig.cache

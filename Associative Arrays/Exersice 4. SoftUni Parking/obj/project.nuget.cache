@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cEoP8tnITY8Ddt9tyJ7N+/Nq5f8ZQyMjynKHP6Jpn0KXj9J1aXwiRVyBhMr6WpkMrXDYzvyZ2hxOPjAcut3L6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usr\\source\\repos\\Associative Arrays\\4. SoftUni Parking\\4. SoftUni Parking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

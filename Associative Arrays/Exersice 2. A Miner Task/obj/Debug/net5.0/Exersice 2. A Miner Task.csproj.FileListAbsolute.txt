@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Associative Arrays\Exersice 2. A Miner Task\bin\Debug\net5.0\Exersice 2. A Miner Task.exe
+C:\Users\usr\source\repos\Associative Arrays\Exersice 2. A Miner Task\bin\Debug\net5.0\Exersice 2. A Miner Task.deps.json
+C:\Users\usr\source\repos\Associative Arrays\Exersice 2. A Miner Task\bin\Debug\net5.0\Exersice 2. A Miner Task.runtimeconfig.json
+C:\Users\usr\source\repos\Associative Arrays\Exersice 2. A Miner Task\bin\Debug\net5.0\Exersice 2. A Miner Task.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Associative Arrays\Exersice 2. A Miner Task\bin\Debug\net5.0\Exersice 2. A Miner Task.dll
+C:\Users\usr\source\repos\Associative Arrays\Exersice 2. A Miner Task\bin\Debug\net5.0\ref\Exersice 2. A Miner Task.dll
+C:\Users\usr\source\repos\Associative Arrays\Exersice 2. A Miner Task\bin\Debug\net5.0\Exersice 2. A Miner Task.pdb
+C:\Users\usr\source\repos\Associative Arrays\Exersice 2. A Miner Task\obj\Debug\net5.0\Exersice 2. A Miner Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Associative Arrays\Exersice 2. A Miner Task\obj\Debug\net5.0\Exersice 2. A Miner Task.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Associative Arrays\Exersice 2. A Miner Task\obj\Debug\net5.0\Exersice 2. A Miner Task.AssemblyInfo.cs
+C:\Users\usr\source\repos\Associative Arrays\Exersice 2. A Miner Task\obj\Debug\net5.0\Exersice 2. A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Associative Arrays\Exersice 2. A Miner Task\obj\Debug\net5.0\Exersice 2. A Miner Task.dll
+C:\Users\usr\source\repos\Associative Arrays\Exersice 2. A Miner Task\obj\Debug\net5.0\ref\Exersice 2. A Miner Task.dll
+C:\Users\usr\source\repos\Associative Arrays\Exersice 2. A Miner Task\obj\Debug\net5.0\Exersice 2. A Miner Task.pdb
+C:\Users\usr\source\repos\Associative Arrays\Exersice 2. A Miner Task\obj\Debug\net5.0\Exersice 2. A Miner Task.genruntimeconfig.cache
+C:\Users\usr\source\repos\Associative Arrays\Exersice 2. A Miner Task\obj\Debug\net5.0\Exersice 2. A Miner Task.csproj.AssemblyReference.cache

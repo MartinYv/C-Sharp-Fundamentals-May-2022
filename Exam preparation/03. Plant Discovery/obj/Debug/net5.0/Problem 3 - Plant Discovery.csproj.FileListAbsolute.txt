@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Exam preparation 22\Exam preparation 22\bin\Debug\net5.0\Problem 3 - Plant Discovery.exe
+C:\Users\usr\source\repos\Exam preparation 22\Exam preparation 22\bin\Debug\net5.0\Problem 3 - Plant Discovery.deps.json
+C:\Users\usr\source\repos\Exam preparation 22\Exam preparation 22\bin\Debug\net5.0\Problem 3 - Plant Discovery.runtimeconfig.json
+C:\Users\usr\source\repos\Exam preparation 22\Exam preparation 22\bin\Debug\net5.0\Problem 3 - Plant Discovery.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Exam preparation 22\Exam preparation 22\bin\Debug\net5.0\Problem 3 - Plant Discovery.dll
+C:\Users\usr\source\repos\Exam preparation 22\Exam preparation 22\bin\Debug\net5.0\ref\Problem 3 - Plant Discovery.dll
+C:\Users\usr\source\repos\Exam preparation 22\Exam preparation 22\bin\Debug\net5.0\Problem 3 - Plant Discovery.pdb
+C:\Users\usr\source\repos\Exam preparation 22\Exam preparation 22\obj\Debug\net5.0\Problem 3 - Plant Discovery.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Exam preparation 22\Exam preparation 22\obj\Debug\net5.0\Problem 3 - Plant Discovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Exam preparation 22\Exam preparation 22\obj\Debug\net5.0\Problem 3 - Plant Discovery.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Exam preparation 22\Exam preparation 22\obj\Debug\net5.0\Problem 3 - Plant Discovery.AssemblyInfo.cs
+C:\Users\usr\source\repos\Exam preparation 22\Exam preparation 22\obj\Debug\net5.0\Problem 3 - Plant Discovery.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Exam preparation 22\Exam preparation 22\obj\Debug\net5.0\Problem 3 - Plant Discovery.dll
+C:\Users\usr\source\repos\Exam preparation 22\Exam preparation 22\obj\Debug\net5.0\ref\Problem 3 - Plant Discovery.dll
+C:\Users\usr\source\repos\Exam preparation 22\Exam preparation 22\obj\Debug\net5.0\Problem 3 - Plant Discovery.pdb
+C:\Users\usr\source\repos\Exam preparation 22\Exam preparation 22\obj\Debug\net5.0\Problem 3 - Plant Discovery.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Arrays\Arrays\bin\Debug\net5.0\Arrays.exe
+C:\Users\usr\source\repos\Arrays\Arrays\bin\Debug\net5.0\Arrays.deps.json
+C:\Users\usr\source\repos\Arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+C:\Users\usr\source\repos\Arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Arrays\Arrays\bin\Debug\net5.0\Arrays.dll
+C:\Users\usr\source\repos\Arrays\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+C:\Users\usr\source\repos\Arrays\Arrays\bin\Debug\net5.0\Arrays.pdb
+C:\Users\usr\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+C:\Users\usr\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.dll
+C:\Users\usr\source\repos\Arrays\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+C:\Users\usr\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.pdb
+C:\Users\usr\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache

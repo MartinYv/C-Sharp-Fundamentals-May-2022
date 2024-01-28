@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Associative Arrays\Exersice 7. Student Academy\bin\Debug\net5.0\Exersice 7. Student Academy.exe
+C:\Users\usr\source\repos\Associative Arrays\Exersice 7. Student Academy\bin\Debug\net5.0\Exersice 7. Student Academy.deps.json
+C:\Users\usr\source\repos\Associative Arrays\Exersice 7. Student Academy\bin\Debug\net5.0\Exersice 7. Student Academy.runtimeconfig.json
+C:\Users\usr\source\repos\Associative Arrays\Exersice 7. Student Academy\bin\Debug\net5.0\Exersice 7. Student Academy.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Associative Arrays\Exersice 7. Student Academy\bin\Debug\net5.0\Exersice 7. Student Academy.dll
+C:\Users\usr\source\repos\Associative Arrays\Exersice 7. Student Academy\bin\Debug\net5.0\ref\Exersice 7. Student Academy.dll
+C:\Users\usr\source\repos\Associative Arrays\Exersice 7. Student Academy\bin\Debug\net5.0\Exersice 7. Student Academy.pdb
+C:\Users\usr\source\repos\Associative Arrays\Exersice 7. Student Academy\obj\Debug\net5.0\Exersice 7. Student Academy.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Associative Arrays\Exersice 7. Student Academy\obj\Debug\net5.0\Exersice 7. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Associative Arrays\Exersice 7. Student Academy\obj\Debug\net5.0\Exersice 7. Student Academy.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Associative Arrays\Exersice 7. Student Academy\obj\Debug\net5.0\Exersice 7. Student Academy.AssemblyInfo.cs
+C:\Users\usr\source\repos\Associative Arrays\Exersice 7. Student Academy\obj\Debug\net5.0\Exersice 7. Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Associative Arrays\Exersice 7. Student Academy\obj\Debug\net5.0\Exersice 7. Student Academy.dll
+C:\Users\usr\source\repos\Associative Arrays\Exersice 7. Student Academy\obj\Debug\net5.0\ref\Exersice 7. Student Academy.dll
+C:\Users\usr\source\repos\Associative Arrays\Exersice 7. Student Academy\obj\Debug\net5.0\Exersice 7. Student Academy.pdb
+C:\Users\usr\source\repos\Associative Arrays\Exersice 7. Student Academy\obj\Debug\net5.0\Exersice 7. Student Academy.genruntimeconfig.cache

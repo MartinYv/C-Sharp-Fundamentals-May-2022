@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Objects and Classes\Objects and Classes\bin\Debug\net5.0\I. Using the Built-in .NET Classes.exe
+C:\Users\usr\source\repos\Objects and Classes\Objects and Classes\bin\Debug\net5.0\I. Using the Built-in .NET Classes.deps.json
+C:\Users\usr\source\repos\Objects and Classes\Objects and Classes\bin\Debug\net5.0\I. Using the Built-in .NET Classes.runtimeconfig.json
+C:\Users\usr\source\repos\Objects and Classes\Objects and Classes\bin\Debug\net5.0\I. Using the Built-in .NET Classes.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Objects and Classes\Objects and Classes\bin\Debug\net5.0\I. Using the Built-in .NET Classes.dll
+C:\Users\usr\source\repos\Objects and Classes\Objects and Classes\bin\Debug\net5.0\ref\I. Using the Built-in .NET Classes.dll
+C:\Users\usr\source\repos\Objects and Classes\Objects and Classes\bin\Debug\net5.0\I. Using the Built-in .NET Classes.pdb
+C:\Users\usr\source\repos\Objects and Classes\Objects and Classes\obj\Debug\net5.0\I. Using the Built-in .NET Classes.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Objects and Classes\Objects and Classes\obj\Debug\net5.0\I. Using the Built-in .NET Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Objects and Classes\Objects and Classes\obj\Debug\net5.0\I. Using the Built-in .NET Classes.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Objects and Classes\Objects and Classes\obj\Debug\net5.0\I. Using the Built-in .NET Classes.AssemblyInfo.cs
+C:\Users\usr\source\repos\Objects and Classes\Objects and Classes\obj\Debug\net5.0\I. Using the Built-in .NET Classes.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Objects and Classes\Objects and Classes\obj\Debug\net5.0\I. Using the Built-in .NET Classes.dll
+C:\Users\usr\source\repos\Objects and Classes\Objects and Classes\obj\Debug\net5.0\ref\I. Using the Built-in .NET Classes.dll
+C:\Users\usr\source\repos\Objects and Classes\Objects and Classes\obj\Debug\net5.0\I. Using the Built-in .NET Classes.pdb
+C:\Users\usr\source\repos\Objects and Classes\Objects and Classes\obj\Debug\net5.0\I. Using the Built-in .NET Classes.genruntimeconfig.cache

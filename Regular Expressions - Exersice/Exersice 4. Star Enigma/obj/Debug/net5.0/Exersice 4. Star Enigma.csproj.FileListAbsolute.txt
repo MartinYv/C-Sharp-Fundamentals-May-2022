@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 4. Star Enigma\bin\Debug\net5.0\Exersice 4. Star Enigma.exe
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 4. Star Enigma\bin\Debug\net5.0\Exersice 4. Star Enigma.deps.json
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 4. Star Enigma\bin\Debug\net5.0\Exersice 4. Star Enigma.runtimeconfig.json
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 4. Star Enigma\bin\Debug\net5.0\Exersice 4. Star Enigma.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 4. Star Enigma\bin\Debug\net5.0\Exersice 4. Star Enigma.dll
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 4. Star Enigma\bin\Debug\net5.0\ref\Exersice 4. Star Enigma.dll
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 4. Star Enigma\bin\Debug\net5.0\Exersice 4. Star Enigma.pdb
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 4. Star Enigma\obj\Debug\net5.0\Exersice 4. Star Enigma.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 4. Star Enigma\obj\Debug\net5.0\Exersice 4. Star Enigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 4. Star Enigma\obj\Debug\net5.0\Exersice 4. Star Enigma.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 4. Star Enigma\obj\Debug\net5.0\Exersice 4. Star Enigma.AssemblyInfo.cs
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 4. Star Enigma\obj\Debug\net5.0\Exersice 4. Star Enigma.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 4. Star Enigma\obj\Debug\net5.0\Exersice 4. Star Enigma.dll
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 4. Star Enigma\obj\Debug\net5.0\ref\Exersice 4. Star Enigma.dll
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 4. Star Enigma\obj\Debug\net5.0\Exersice 4. Star Enigma.pdb
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 4. Star Enigma\obj\Debug\net5.0\Exersice 4. Star Enigma.genruntimeconfig.cache

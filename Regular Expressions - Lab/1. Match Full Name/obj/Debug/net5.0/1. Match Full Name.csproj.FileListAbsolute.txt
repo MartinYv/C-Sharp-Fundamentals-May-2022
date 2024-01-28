@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Lab Regular Expressions\1. Match Full Name\bin\Debug\net5.0\1. Match Full Name.exe
+C:\Users\usr\source\repos\Lab Regular Expressions\1. Match Full Name\bin\Debug\net5.0\1. Match Full Name.deps.json
+C:\Users\usr\source\repos\Lab Regular Expressions\1. Match Full Name\bin\Debug\net5.0\1. Match Full Name.runtimeconfig.json
+C:\Users\usr\source\repos\Lab Regular Expressions\1. Match Full Name\bin\Debug\net5.0\1. Match Full Name.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Lab Regular Expressions\1. Match Full Name\bin\Debug\net5.0\1. Match Full Name.dll
+C:\Users\usr\source\repos\Lab Regular Expressions\1. Match Full Name\bin\Debug\net5.0\ref\1. Match Full Name.dll
+C:\Users\usr\source\repos\Lab Regular Expressions\1. Match Full Name\bin\Debug\net5.0\1. Match Full Name.pdb
+C:\Users\usr\source\repos\Lab Regular Expressions\1. Match Full Name\obj\Debug\net5.0\1. Match Full Name.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Lab Regular Expressions\1. Match Full Name\obj\Debug\net5.0\1. Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Lab Regular Expressions\1. Match Full Name\obj\Debug\net5.0\1. Match Full Name.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Lab Regular Expressions\1. Match Full Name\obj\Debug\net5.0\1. Match Full Name.AssemblyInfo.cs
+C:\Users\usr\source\repos\Lab Regular Expressions\1. Match Full Name\obj\Debug\net5.0\1. Match Full Name.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Lab Regular Expressions\1. Match Full Name\obj\Debug\net5.0\1. Match Full Name.dll
+C:\Users\usr\source\repos\Lab Regular Expressions\1. Match Full Name\obj\Debug\net5.0\ref\1. Match Full Name.dll
+C:\Users\usr\source\repos\Lab Regular Expressions\1. Match Full Name\obj\Debug\net5.0\1. Match Full Name.pdb
+C:\Users\usr\source\repos\Lab Regular Expressions\1. Match Full Name\obj\Debug\net5.0\1. Match Full Name.genruntimeconfig.cache

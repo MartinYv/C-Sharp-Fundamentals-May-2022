@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Objects and Classes\Exersice 02. Articles\bin\Debug\net5.0\Exersice 02. Articles.exe
+C:\Users\usr\source\repos\Objects and Classes\Exersice 02. Articles\bin\Debug\net5.0\Exersice 02. Articles.deps.json
+C:\Users\usr\source\repos\Objects and Classes\Exersice 02. Articles\bin\Debug\net5.0\Exersice 02. Articles.runtimeconfig.json
+C:\Users\usr\source\repos\Objects and Classes\Exersice 02. Articles\bin\Debug\net5.0\Exersice 02. Articles.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Objects and Classes\Exersice 02. Articles\bin\Debug\net5.0\Exersice 02. Articles.dll
+C:\Users\usr\source\repos\Objects and Classes\Exersice 02. Articles\bin\Debug\net5.0\ref\Exersice 02. Articles.dll
+C:\Users\usr\source\repos\Objects and Classes\Exersice 02. Articles\bin\Debug\net5.0\Exersice 02. Articles.pdb
+C:\Users\usr\source\repos\Objects and Classes\Exersice 02. Articles\obj\Debug\net5.0\Exersice 02. Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Objects and Classes\Exersice 02. Articles\obj\Debug\net5.0\Exersice 02. Articles.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Objects and Classes\Exersice 02. Articles\obj\Debug\net5.0\Exersice 02. Articles.AssemblyInfo.cs
+C:\Users\usr\source\repos\Objects and Classes\Exersice 02. Articles\obj\Debug\net5.0\Exersice 02. Articles.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Objects and Classes\Exersice 02. Articles\obj\Debug\net5.0\Exersice 02. Articles.dll
+C:\Users\usr\source\repos\Objects and Classes\Exersice 02. Articles\obj\Debug\net5.0\ref\Exersice 02. Articles.dll
+C:\Users\usr\source\repos\Objects and Classes\Exersice 02. Articles\obj\Debug\net5.0\Exersice 02. Articles.pdb
+C:\Users\usr\source\repos\Objects and Classes\Exersice 02. Articles\obj\Debug\net5.0\Exersice 02. Articles.genruntimeconfig.cache
+C:\Users\usr\source\repos\Objects and Classes\Exersice 02. Articles\obj\Debug\net5.0\Exersice 02. Articles.csproj.AssemblyReference.cache

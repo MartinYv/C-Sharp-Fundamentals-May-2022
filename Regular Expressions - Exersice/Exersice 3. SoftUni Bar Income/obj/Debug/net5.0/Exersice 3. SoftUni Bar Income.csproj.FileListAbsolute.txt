@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 3. SoftUni Bar Income\bin\Debug\net5.0\Exersice 3. SoftUni Bar Income.exe
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 3. SoftUni Bar Income\bin\Debug\net5.0\Exersice 3. SoftUni Bar Income.deps.json
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 3. SoftUni Bar Income\bin\Debug\net5.0\Exersice 3. SoftUni Bar Income.runtimeconfig.json
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 3. SoftUni Bar Income\bin\Debug\net5.0\Exersice 3. SoftUni Bar Income.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 3. SoftUni Bar Income\bin\Debug\net5.0\Exersice 3. SoftUni Bar Income.dll
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 3. SoftUni Bar Income\bin\Debug\net5.0\ref\Exersice 3. SoftUni Bar Income.dll
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 3. SoftUni Bar Income\bin\Debug\net5.0\Exersice 3. SoftUni Bar Income.pdb
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 3. SoftUni Bar Income\obj\Debug\net5.0\Exersice 3. SoftUni Bar Income.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 3. SoftUni Bar Income\obj\Debug\net5.0\Exersice 3. SoftUni Bar Income.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 3. SoftUni Bar Income\obj\Debug\net5.0\Exersice 3. SoftUni Bar Income.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 3. SoftUni Bar Income\obj\Debug\net5.0\Exersice 3. SoftUni Bar Income.AssemblyInfo.cs
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 3. SoftUni Bar Income\obj\Debug\net5.0\Exersice 3. SoftUni Bar Income.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 3. SoftUni Bar Income\obj\Debug\net5.0\Exersice 3. SoftUni Bar Income.dll
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 3. SoftUni Bar Income\obj\Debug\net5.0\ref\Exersice 3. SoftUni Bar Income.dll
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 3. SoftUni Bar Income\obj\Debug\net5.0\Exersice 3. SoftUni Bar Income.pdb
+C:\Users\usr\source\repos\Lab Regular Expressions\Exersice 3. SoftUni Bar Income\obj\Debug\net5.0\Exersice 3. SoftUni Bar Income.genruntimeconfig.cache

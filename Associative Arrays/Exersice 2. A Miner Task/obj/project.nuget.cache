@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5u5MKn7kdfvWKye15B7n5y/4m3IFuTf9vCoyxAT6TKJ2/KMuTWPLxZP9KoyTHln28aBczIOkL4nOlBXTMj6BXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usr\\source\\repos\\Associative Arrays\\Exersice 2. A Miner Task\\Exersice 2. A Miner Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

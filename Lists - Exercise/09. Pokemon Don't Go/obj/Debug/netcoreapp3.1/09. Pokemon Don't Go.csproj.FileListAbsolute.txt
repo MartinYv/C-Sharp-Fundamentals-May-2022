@@ -1,0 +1,14 @@
+C:\Users\usr\source\repos\Exercise LISTS produljenie\09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\09. Pokemon Don't Go.exe
+C:\Users\usr\source\repos\Exercise LISTS produljenie\09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\09. Pokemon Don't Go.deps.json
+C:\Users\usr\source\repos\Exercise LISTS produljenie\09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\09. Pokemon Don't Go.runtimeconfig.json
+C:\Users\usr\source\repos\Exercise LISTS produljenie\09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\09. Pokemon Don't Go.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Exercise LISTS produljenie\09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\09. Pokemon Don't Go.dll
+C:\Users\usr\source\repos\Exercise LISTS produljenie\09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\09. Pokemon Don't Go.pdb
+C:\Users\usr\source\repos\Exercise LISTS produljenie\09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\09. Pokemon Don't Go.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Exercise LISTS produljenie\09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\09. Pokemon Don't Go.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Exercise LISTS produljenie\09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\09. Pokemon Don't Go.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Exercise LISTS produljenie\09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\09. Pokemon Don't Go.AssemblyInfo.cs
+C:\Users\usr\source\repos\Exercise LISTS produljenie\09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\09. Pokemon Don't Go.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Exercise LISTS produljenie\09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\09. Pokemon Don't Go.dll
+C:\Users\usr\source\repos\Exercise LISTS produljenie\09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\09. Pokemon Don't Go.pdb
+C:\Users\usr\source\repos\Exercise LISTS produljenie\09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\09. Pokemon Don't Go.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\Exercise LISTS produljenie\1. Burger bus\bin\Debug\net5.0\1. Burger bus.exe
+C:\Users\usr\source\repos\Exercise LISTS produljenie\1. Burger bus\bin\Debug\net5.0\1. Burger bus.deps.json
+C:\Users\usr\source\repos\Exercise LISTS produljenie\1. Burger bus\bin\Debug\net5.0\1. Burger bus.runtimeconfig.json
+C:\Users\usr\source\repos\Exercise LISTS produljenie\1. Burger bus\bin\Debug\net5.0\1. Burger bus.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Exercise LISTS produljenie\1. Burger bus\bin\Debug\net5.0\1. Burger bus.dll
+C:\Users\usr\source\repos\Exercise LISTS produljenie\1. Burger bus\bin\Debug\net5.0\ref\1. Burger bus.dll
+C:\Users\usr\source\repos\Exercise LISTS produljenie\1. Burger bus\bin\Debug\net5.0\1. Burger bus.pdb
+C:\Users\usr\source\repos\Exercise LISTS produljenie\1. Burger bus\obj\Debug\net5.0\1. Burger bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Exercise LISTS produljenie\1. Burger bus\obj\Debug\net5.0\1. Burger bus.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Exercise LISTS produljenie\1. Burger bus\obj\Debug\net5.0\1. Burger bus.AssemblyInfo.cs
+C:\Users\usr\source\repos\Exercise LISTS produljenie\1. Burger bus\obj\Debug\net5.0\1. Burger bus.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Exercise LISTS produljenie\1. Burger bus\obj\Debug\net5.0\1. Burger bus.dll
+C:\Users\usr\source\repos\Exercise LISTS produljenie\1. Burger bus\obj\Debug\net5.0\ref\1. Burger bus.dll
+C:\Users\usr\source\repos\Exercise LISTS produljenie\1. Burger bus\obj\Debug\net5.0\1. Burger bus.pdb
+C:\Users\usr\source\repos\Exercise LISTS produljenie\1. Burger bus\obj\Debug\net5.0\1. Burger bus.genruntimeconfig.cache

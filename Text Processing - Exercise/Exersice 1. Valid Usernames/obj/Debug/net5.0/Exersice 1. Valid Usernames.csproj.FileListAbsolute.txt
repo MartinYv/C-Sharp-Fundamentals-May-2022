@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 1. Valid Usernames\bin\Debug\net5.0\Exersice 1. Valid Usernames.exe
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 1. Valid Usernames\bin\Debug\net5.0\Exersice 1. Valid Usernames.deps.json
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 1. Valid Usernames\bin\Debug\net5.0\Exersice 1. Valid Usernames.runtimeconfig.json
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 1. Valid Usernames\bin\Debug\net5.0\Exersice 1. Valid Usernames.runtimeconfig.dev.json
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 1. Valid Usernames\bin\Debug\net5.0\Exersice 1. Valid Usernames.dll
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 1. Valid Usernames\bin\Debug\net5.0\ref\Exersice 1. Valid Usernames.dll
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 1. Valid Usernames\bin\Debug\net5.0\Exersice 1. Valid Usernames.pdb
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 1. Valid Usernames\obj\Debug\net5.0\Exersice 1. Valid Usernames.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 1. Valid Usernames\obj\Debug\net5.0\Exersice 1. Valid Usernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 1. Valid Usernames\obj\Debug\net5.0\Exersice 1. Valid Usernames.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 1. Valid Usernames\obj\Debug\net5.0\Exersice 1. Valid Usernames.AssemblyInfo.cs
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 1. Valid Usernames\obj\Debug\net5.0\Exersice 1. Valid Usernames.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 1. Valid Usernames\obj\Debug\net5.0\Exersice 1. Valid Usernames.dll
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 1. Valid Usernames\obj\Debug\net5.0\ref\Exersice 1. Valid Usernames.dll
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 1. Valid Usernames\obj\Debug\net5.0\Exersice 1. Valid Usernames.pdb
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 1. Valid Usernames\obj\Debug\net5.0\Exersice 1. Valid Usernames.genruntimeconfig.cache

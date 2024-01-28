@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 4. Caesar Cipher\bin\Debug\net5.0\Exersice 4. Caesar Cipher.exe
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 4. Caesar Cipher\bin\Debug\net5.0\Exersice 4. Caesar Cipher.deps.json
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 4. Caesar Cipher\bin\Debug\net5.0\Exersice 4. Caesar Cipher.runtimeconfig.json
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 4. Caesar Cipher\bin\Debug\net5.0\Exersice 4. Caesar Cipher.runtimeconfig.dev.json
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 4. Caesar Cipher\bin\Debug\net5.0\Exersice 4. Caesar Cipher.dll
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 4. Caesar Cipher\bin\Debug\net5.0\ref\Exersice 4. Caesar Cipher.dll
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 4. Caesar Cipher\bin\Debug\net5.0\Exersice 4. Caesar Cipher.pdb
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 4. Caesar Cipher\obj\Debug\net5.0\Exersice 4. Caesar Cipher.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 4. Caesar Cipher\obj\Debug\net5.0\Exersice 4. Caesar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 4. Caesar Cipher\obj\Debug\net5.0\Exersice 4. Caesar Cipher.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 4. Caesar Cipher\obj\Debug\net5.0\Exersice 4. Caesar Cipher.AssemblyInfo.cs
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 4. Caesar Cipher\obj\Debug\net5.0\Exersice 4. Caesar Cipher.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 4. Caesar Cipher\obj\Debug\net5.0\Exersice 4. Caesar Cipher.dll
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 4. Caesar Cipher\obj\Debug\net5.0\ref\Exersice 4. Caesar Cipher.dll
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 4. Caesar Cipher\obj\Debug\net5.0\Exersice 4. Caesar Cipher.pdb
+C:\Users\usr\source\repos\1. Reverse Strings\Exersice 4. Caesar Cipher\obj\Debug\net5.0\Exersice 4. Caesar Cipher.genruntimeconfig.cache

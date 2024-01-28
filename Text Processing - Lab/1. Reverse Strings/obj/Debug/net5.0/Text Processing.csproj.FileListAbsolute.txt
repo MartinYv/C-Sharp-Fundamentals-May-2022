@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\1. Reverse Strings\Text Processing\bin\Debug\net5.0\Text Processing.exe
+C:\Users\usr\source\repos\1. Reverse Strings\Text Processing\bin\Debug\net5.0\Text Processing.deps.json
+C:\Users\usr\source\repos\1. Reverse Strings\Text Processing\bin\Debug\net5.0\Text Processing.runtimeconfig.json
+C:\Users\usr\source\repos\1. Reverse Strings\Text Processing\bin\Debug\net5.0\Text Processing.runtimeconfig.dev.json
+C:\Users\usr\source\repos\1. Reverse Strings\Text Processing\bin\Debug\net5.0\Text Processing.dll
+C:\Users\usr\source\repos\1. Reverse Strings\Text Processing\bin\Debug\net5.0\ref\Text Processing.dll
+C:\Users\usr\source\repos\1. Reverse Strings\Text Processing\bin\Debug\net5.0\Text Processing.pdb
+C:\Users\usr\source\repos\1. Reverse Strings\Text Processing\obj\Debug\net5.0\Text Processing.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\1. Reverse Strings\Text Processing\obj\Debug\net5.0\Text Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\1. Reverse Strings\Text Processing\obj\Debug\net5.0\Text Processing.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\1. Reverse Strings\Text Processing\obj\Debug\net5.0\Text Processing.AssemblyInfo.cs
+C:\Users\usr\source\repos\1. Reverse Strings\Text Processing\obj\Debug\net5.0\Text Processing.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\1. Reverse Strings\Text Processing\obj\Debug\net5.0\Text Processing.dll
+C:\Users\usr\source\repos\1. Reverse Strings\Text Processing\obj\Debug\net5.0\ref\Text Processing.dll
+C:\Users\usr\source\repos\1. Reverse Strings\Text Processing\obj\Debug\net5.0\Text Processing.pdb
+C:\Users\usr\source\repos\1. Reverse Strings\Text Processing\obj\Debug\net5.0\Text Processing.genruntimeconfig.cache

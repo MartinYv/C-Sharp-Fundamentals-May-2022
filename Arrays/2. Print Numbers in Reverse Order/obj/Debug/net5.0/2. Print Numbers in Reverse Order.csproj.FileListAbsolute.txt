@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\Arrays\2. Print Numbers in Reverse Order\bin\Debug\net5.0\2. Print Numbers in Reverse Order.exe
+C:\Users\usr\source\repos\Arrays\2. Print Numbers in Reverse Order\bin\Debug\net5.0\2. Print Numbers in Reverse Order.deps.json
+C:\Users\usr\source\repos\Arrays\2. Print Numbers in Reverse Order\bin\Debug\net5.0\2. Print Numbers in Reverse Order.runtimeconfig.json
+C:\Users\usr\source\repos\Arrays\2. Print Numbers in Reverse Order\bin\Debug\net5.0\2. Print Numbers in Reverse Order.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Arrays\2. Print Numbers in Reverse Order\bin\Debug\net5.0\2. Print Numbers in Reverse Order.dll
+C:\Users\usr\source\repos\Arrays\2. Print Numbers in Reverse Order\bin\Debug\net5.0\ref\2. Print Numbers in Reverse Order.dll
+C:\Users\usr\source\repos\Arrays\2. Print Numbers in Reverse Order\bin\Debug\net5.0\2. Print Numbers in Reverse Order.pdb
+C:\Users\usr\source\repos\Arrays\2. Print Numbers in Reverse Order\obj\Debug\net5.0\2. Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Arrays\2. Print Numbers in Reverse Order\obj\Debug\net5.0\2. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Arrays\2. Print Numbers in Reverse Order\obj\Debug\net5.0\2. Print Numbers in Reverse Order.AssemblyInfo.cs
+C:\Users\usr\source\repos\Arrays\2. Print Numbers in Reverse Order\obj\Debug\net5.0\2. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Arrays\2. Print Numbers in Reverse Order\obj\Debug\net5.0\2. Print Numbers in Reverse Order.dll
+C:\Users\usr\source\repos\Arrays\2. Print Numbers in Reverse Order\obj\Debug\net5.0\ref\2. Print Numbers in Reverse Order.dll
+C:\Users\usr\source\repos\Arrays\2. Print Numbers in Reverse Order\obj\Debug\net5.0\2. Print Numbers in Reverse Order.pdb
+C:\Users\usr\source\repos\Arrays\2. Print Numbers in Reverse Order\obj\Debug\net5.0\2. Print Numbers in Reverse Order.genruntimeconfig.cache

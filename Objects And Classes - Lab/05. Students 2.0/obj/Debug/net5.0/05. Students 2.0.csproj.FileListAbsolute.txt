@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Objects and Classes\05. Students 2.0\bin\Debug\net5.0\05. Students 2.0.exe
+C:\Users\usr\source\repos\Objects and Classes\05. Students 2.0\bin\Debug\net5.0\05. Students 2.0.deps.json
+C:\Users\usr\source\repos\Objects and Classes\05. Students 2.0\bin\Debug\net5.0\05. Students 2.0.runtimeconfig.json
+C:\Users\usr\source\repos\Objects and Classes\05. Students 2.0\bin\Debug\net5.0\05. Students 2.0.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Objects and Classes\05. Students 2.0\bin\Debug\net5.0\05. Students 2.0.dll
+C:\Users\usr\source\repos\Objects and Classes\05. Students 2.0\bin\Debug\net5.0\ref\05. Students 2.0.dll
+C:\Users\usr\source\repos\Objects and Classes\05. Students 2.0\bin\Debug\net5.0\05. Students 2.0.pdb
+C:\Users\usr\source\repos\Objects and Classes\05. Students 2.0\obj\Debug\net5.0\05. Students 2.0.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Objects and Classes\05. Students 2.0\obj\Debug\net5.0\05. Students 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Objects and Classes\05. Students 2.0\obj\Debug\net5.0\05. Students 2.0.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Objects and Classes\05. Students 2.0\obj\Debug\net5.0\05. Students 2.0.AssemblyInfo.cs
+C:\Users\usr\source\repos\Objects and Classes\05. Students 2.0\obj\Debug\net5.0\05. Students 2.0.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Objects and Classes\05. Students 2.0\obj\Debug\net5.0\05. Students 2.0.dll
+C:\Users\usr\source\repos\Objects and Classes\05. Students 2.0\obj\Debug\net5.0\ref\05. Students 2.0.dll
+C:\Users\usr\source\repos\Objects and Classes\05. Students 2.0\obj\Debug\net5.0\05. Students 2.0.pdb
+C:\Users\usr\source\repos\Objects and Classes\05. Students 2.0\obj\Debug\net5.0\05. Students 2.0.genruntimeconfig.cache

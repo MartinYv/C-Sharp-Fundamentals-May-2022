@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EQAMu95aRmcXsDyL9cbDsjjllfh9OJVRHKg6TmLjmyVh044Hlq9vdeSphf54hsKV81p5U0sVUxPzB8aRyRtQ+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usr\\source\\repos\\Associative Arrays\\03. Word Synonyms\\03. Word Synonyms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Exam preparation 22\Message Manager\bin\Debug\net5.0\Message Manager.exe
+C:\Users\usr\source\repos\Exam preparation 22\Message Manager\bin\Debug\net5.0\Message Manager.deps.json
+C:\Users\usr\source\repos\Exam preparation 22\Message Manager\bin\Debug\net5.0\Message Manager.runtimeconfig.json
+C:\Users\usr\source\repos\Exam preparation 22\Message Manager\bin\Debug\net5.0\Message Manager.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Exam preparation 22\Message Manager\bin\Debug\net5.0\Message Manager.dll
+C:\Users\usr\source\repos\Exam preparation 22\Message Manager\bin\Debug\net5.0\ref\Message Manager.dll
+C:\Users\usr\source\repos\Exam preparation 22\Message Manager\bin\Debug\net5.0\Message Manager.pdb
+C:\Users\usr\source\repos\Exam preparation 22\Message Manager\obj\Debug\net5.0\Message Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Exam preparation 22\Message Manager\obj\Debug\net5.0\Message Manager.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Exam preparation 22\Message Manager\obj\Debug\net5.0\Message Manager.AssemblyInfo.cs
+C:\Users\usr\source\repos\Exam preparation 22\Message Manager\obj\Debug\net5.0\Message Manager.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Exam preparation 22\Message Manager\obj\Debug\net5.0\Message Manager.dll
+C:\Users\usr\source\repos\Exam preparation 22\Message Manager\obj\Debug\net5.0\ref\Message Manager.dll
+C:\Users\usr\source\repos\Exam preparation 22\Message Manager\obj\Debug\net5.0\Message Manager.pdb
+C:\Users\usr\source\repos\Exam preparation 22\Message Manager\obj\Debug\net5.0\Message Manager.genruntimeconfig.cache
+C:\Users\usr\source\repos\Exam preparation 22\Message Manager\obj\Debug\net5.0\Message Manager.csproj.AssemblyReference.cache

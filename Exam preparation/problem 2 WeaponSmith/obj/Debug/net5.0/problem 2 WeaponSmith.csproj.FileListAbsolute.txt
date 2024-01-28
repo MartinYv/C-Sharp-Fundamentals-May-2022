@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\problem 2 WeaponSmith\bin\Debug\net5.0\problem 2 WeaponSmith.exe
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\problem 2 WeaponSmith\bin\Debug\net5.0\problem 2 WeaponSmith.deps.json
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\problem 2 WeaponSmith\bin\Debug\net5.0\problem 2 WeaponSmith.runtimeconfig.json
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\problem 2 WeaponSmith\bin\Debug\net5.0\problem 2 WeaponSmith.runtimeconfig.dev.json
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\problem 2 WeaponSmith\bin\Debug\net5.0\problem 2 WeaponSmith.dll
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\problem 2 WeaponSmith\bin\Debug\net5.0\ref\problem 2 WeaponSmith.dll
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\problem 2 WeaponSmith\bin\Debug\net5.0\problem 2 WeaponSmith.pdb
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\problem 2 WeaponSmith\obj\Debug\net5.0\problem 2 WeaponSmith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\problem 2 WeaponSmith\obj\Debug\net5.0\problem 2 WeaponSmith.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\problem 2 WeaponSmith\obj\Debug\net5.0\problem 2 WeaponSmith.AssemblyInfo.cs
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\problem 2 WeaponSmith\obj\Debug\net5.0\problem 2 WeaponSmith.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\problem 2 WeaponSmith\obj\Debug\net5.0\problem 2 WeaponSmith.dll
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\problem 2 WeaponSmith\obj\Debug\net5.0\ref\problem 2 WeaponSmith.dll
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\problem 2 WeaponSmith\obj\Debug\net5.0\problem 2 WeaponSmith.pdb
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\problem 2 WeaponSmith\obj\Debug\net5.0\problem 2 WeaponSmith.genruntimeconfig.cache
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\problem 2 WeaponSmith\obj\Debug\net5.0\problem 2 WeaponSmith.csproj.AssemblyReference.cache

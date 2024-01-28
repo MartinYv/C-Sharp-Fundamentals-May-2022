@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Objects and Classes\Exersice 4. Students\bin\Debug\net5.0\Exersice 4. Students.exe
+C:\Users\usr\source\repos\Objects and Classes\Exersice 4. Students\bin\Debug\net5.0\Exersice 4. Students.deps.json
+C:\Users\usr\source\repos\Objects and Classes\Exersice 4. Students\bin\Debug\net5.0\Exersice 4. Students.runtimeconfig.json
+C:\Users\usr\source\repos\Objects and Classes\Exersice 4. Students\bin\Debug\net5.0\Exersice 4. Students.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Objects and Classes\Exersice 4. Students\bin\Debug\net5.0\Exersice 4. Students.dll
+C:\Users\usr\source\repos\Objects and Classes\Exersice 4. Students\bin\Debug\net5.0\ref\Exersice 4. Students.dll
+C:\Users\usr\source\repos\Objects and Classes\Exersice 4. Students\bin\Debug\net5.0\Exersice 4. Students.pdb
+C:\Users\usr\source\repos\Objects and Classes\Exersice 4. Students\obj\Debug\net5.0\Exersice 4. Students.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Objects and Classes\Exersice 4. Students\obj\Debug\net5.0\Exersice 4. Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Objects and Classes\Exersice 4. Students\obj\Debug\net5.0\Exersice 4. Students.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Objects and Classes\Exersice 4. Students\obj\Debug\net5.0\Exersice 4. Students.AssemblyInfo.cs
+C:\Users\usr\source\repos\Objects and Classes\Exersice 4. Students\obj\Debug\net5.0\Exersice 4. Students.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Objects and Classes\Exersice 4. Students\obj\Debug\net5.0\Exersice 4. Students.dll
+C:\Users\usr\source\repos\Objects and Classes\Exersice 4. Students\obj\Debug\net5.0\ref\Exersice 4. Students.dll
+C:\Users\usr\source\repos\Objects and Classes\Exersice 4. Students\obj\Debug\net5.0\Exersice 4. Students.pdb
+C:\Users\usr\source\repos\Objects and Classes\Exersice 4. Students\obj\Debug\net5.0\Exersice 4. Students.genruntimeconfig.cache

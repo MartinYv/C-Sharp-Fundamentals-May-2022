@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Lists\Lists manipulations basics\bin\Debug\net5.0\Lists manipulations basics.exe
+C:\Users\usr\source\repos\Lists\Lists manipulations basics\bin\Debug\net5.0\Lists manipulations basics.deps.json
+C:\Users\usr\source\repos\Lists\Lists manipulations basics\bin\Debug\net5.0\Lists manipulations basics.runtimeconfig.json
+C:\Users\usr\source\repos\Lists\Lists manipulations basics\bin\Debug\net5.0\Lists manipulations basics.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Lists\Lists manipulations basics\bin\Debug\net5.0\Lists manipulations basics.dll
+C:\Users\usr\source\repos\Lists\Lists manipulations basics\bin\Debug\net5.0\ref\Lists manipulations basics.dll
+C:\Users\usr\source\repos\Lists\Lists manipulations basics\bin\Debug\net5.0\Lists manipulations basics.pdb
+C:\Users\usr\source\repos\Lists\Lists manipulations basics\obj\Debug\net5.0\Lists manipulations basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Lists\Lists manipulations basics\obj\Debug\net5.0\Lists manipulations basics.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Lists\Lists manipulations basics\obj\Debug\net5.0\Lists manipulations basics.AssemblyInfo.cs
+C:\Users\usr\source\repos\Lists\Lists manipulations basics\obj\Debug\net5.0\Lists manipulations basics.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Lists\Lists manipulations basics\obj\Debug\net5.0\Lists manipulations basics.dll
+C:\Users\usr\source\repos\Lists\Lists manipulations basics\obj\Debug\net5.0\ref\Lists manipulations basics.dll
+C:\Users\usr\source\repos\Lists\Lists manipulations basics\obj\Debug\net5.0\Lists manipulations basics.pdb
+C:\Users\usr\source\repos\Lists\Lists manipulations basics\obj\Debug\net5.0\Lists manipulations basics.genruntimeconfig.cache
+C:\Users\usr\source\repos\Lists\Lists manipulations basics\obj\Debug\net5.0\Lists manipulations basics.csproj.AssemblyReference.cache

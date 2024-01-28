@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Arrays\5. Sum Even Numbers\bin\Release\net5.0\5. Sum Even Numbers.exe
+C:\Users\usr\source\repos\Arrays\5. Sum Even Numbers\bin\Release\net5.0\5. Sum Even Numbers.deps.json
+C:\Users\usr\source\repos\Arrays\5. Sum Even Numbers\bin\Release\net5.0\5. Sum Even Numbers.runtimeconfig.json
+C:\Users\usr\source\repos\Arrays\5. Sum Even Numbers\bin\Release\net5.0\5. Sum Even Numbers.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Arrays\5. Sum Even Numbers\bin\Release\net5.0\5. Sum Even Numbers.dll
+C:\Users\usr\source\repos\Arrays\5. Sum Even Numbers\bin\Release\net5.0\ref\5. Sum Even Numbers.dll
+C:\Users\usr\source\repos\Arrays\5. Sum Even Numbers\bin\Release\net5.0\5. Sum Even Numbers.pdb
+C:\Users\usr\source\repos\Arrays\5. Sum Even Numbers\obj\Release\net5.0\5. Sum Even Numbers.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Arrays\5. Sum Even Numbers\obj\Release\net5.0\5. Sum Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Arrays\5. Sum Even Numbers\obj\Release\net5.0\5. Sum Even Numbers.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Arrays\5. Sum Even Numbers\obj\Release\net5.0\5. Sum Even Numbers.AssemblyInfo.cs
+C:\Users\usr\source\repos\Arrays\5. Sum Even Numbers\obj\Release\net5.0\5. Sum Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Arrays\5. Sum Even Numbers\obj\Release\net5.0\5. Sum Even Numbers.dll
+C:\Users\usr\source\repos\Arrays\5. Sum Even Numbers\obj\Release\net5.0\ref\5. Sum Even Numbers.dll
+C:\Users\usr\source\repos\Arrays\5. Sum Even Numbers\obj\Release\net5.0\5. Sum Even Numbers.pdb
+C:\Users\usr\source\repos\Arrays\5. Sum Even Numbers\obj\Release\net5.0\5. Sum Even Numbers.genruntimeconfig.cache

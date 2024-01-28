@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Exercise LISTS produljenie\8. Anonymous Threat\bin\Debug\net5.0\8. Anonymous Threat.exe
+C:\Users\usr\source\repos\Exercise LISTS produljenie\8. Anonymous Threat\bin\Debug\net5.0\8. Anonymous Threat.deps.json
+C:\Users\usr\source\repos\Exercise LISTS produljenie\8. Anonymous Threat\bin\Debug\net5.0\8. Anonymous Threat.runtimeconfig.json
+C:\Users\usr\source\repos\Exercise LISTS produljenie\8. Anonymous Threat\bin\Debug\net5.0\8. Anonymous Threat.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Exercise LISTS produljenie\8. Anonymous Threat\bin\Debug\net5.0\8. Anonymous Threat.dll
+C:\Users\usr\source\repos\Exercise LISTS produljenie\8. Anonymous Threat\bin\Debug\net5.0\ref\8. Anonymous Threat.dll
+C:\Users\usr\source\repos\Exercise LISTS produljenie\8. Anonymous Threat\bin\Debug\net5.0\8. Anonymous Threat.pdb
+C:\Users\usr\source\repos\Exercise LISTS produljenie\8. Anonymous Threat\obj\Debug\net5.0\8. Anonymous Threat.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Exercise LISTS produljenie\8. Anonymous Threat\obj\Debug\net5.0\8. Anonymous Threat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Exercise LISTS produljenie\8. Anonymous Threat\obj\Debug\net5.0\8. Anonymous Threat.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Exercise LISTS produljenie\8. Anonymous Threat\obj\Debug\net5.0\8. Anonymous Threat.AssemblyInfo.cs
+C:\Users\usr\source\repos\Exercise LISTS produljenie\8. Anonymous Threat\obj\Debug\net5.0\8. Anonymous Threat.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Exercise LISTS produljenie\8. Anonymous Threat\obj\Debug\net5.0\8. Anonymous Threat.dll
+C:\Users\usr\source\repos\Exercise LISTS produljenie\8. Anonymous Threat\obj\Debug\net5.0\ref\8. Anonymous Threat.dll
+C:\Users\usr\source\repos\Exercise LISTS produljenie\8. Anonymous Threat\obj\Debug\net5.0\8. Anonymous Threat.pdb
+C:\Users\usr\source\repos\Exercise LISTS produljenie\8. Anonymous Threat\obj\Debug\net5.0\8. Anonymous Threat.genruntimeconfig.cache

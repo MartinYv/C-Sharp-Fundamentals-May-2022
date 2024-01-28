@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\fundamentals ExamPreparation 3\bin\Debug\net5.0\fundamentals ExamPreparation 3.exe
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\fundamentals ExamPreparation 3\bin\Debug\net5.0\fundamentals ExamPreparation 3.deps.json
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\fundamentals ExamPreparation 3\bin\Debug\net5.0\fundamentals ExamPreparation 3.runtimeconfig.json
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\fundamentals ExamPreparation 3\bin\Debug\net5.0\fundamentals ExamPreparation 3.runtimeconfig.dev.json
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\fundamentals ExamPreparation 3\bin\Debug\net5.0\fundamentals ExamPreparation 3.dll
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\fundamentals ExamPreparation 3\bin\Debug\net5.0\ref\fundamentals ExamPreparation 3.dll
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\fundamentals ExamPreparation 3\bin\Debug\net5.0\fundamentals ExamPreparation 3.pdb
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\fundamentals ExamPreparation 3\obj\Debug\net5.0\fundamentals ExamPreparation 3.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\fundamentals ExamPreparation 3\obj\Debug\net5.0\fundamentals ExamPreparation 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\fundamentals ExamPreparation 3\obj\Debug\net5.0\fundamentals ExamPreparation 3.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\fundamentals ExamPreparation 3\obj\Debug\net5.0\fundamentals ExamPreparation 3.AssemblyInfo.cs
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\fundamentals ExamPreparation 3\obj\Debug\net5.0\fundamentals ExamPreparation 3.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\fundamentals ExamPreparation 3\obj\Debug\net5.0\fundamentals ExamPreparation 3.dll
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\fundamentals ExamPreparation 3\obj\Debug\net5.0\ref\fundamentals ExamPreparation 3.dll
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\fundamentals ExamPreparation 3\obj\Debug\net5.0\fundamentals ExamPreparation 3.pdb
+C:\Users\usr\source\repos\fundamentals ExamPreparation 3\fundamentals ExamPreparation 3\obj\Debug\net5.0\fundamentals ExamPreparation 3.genruntimeconfig.cache

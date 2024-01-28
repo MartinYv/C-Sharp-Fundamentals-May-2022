@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\1. Reverse Strings\2. Character Multiplier\bin\Debug\net5.0\Exercise 2. Character Multiplier.exe
+C:\Users\usr\source\repos\1. Reverse Strings\2. Character Multiplier\bin\Debug\net5.0\Exercise 2. Character Multiplier.deps.json
+C:\Users\usr\source\repos\1. Reverse Strings\2. Character Multiplier\bin\Debug\net5.0\Exercise 2. Character Multiplier.runtimeconfig.json
+C:\Users\usr\source\repos\1. Reverse Strings\2. Character Multiplier\bin\Debug\net5.0\Exercise 2. Character Multiplier.runtimeconfig.dev.json
+C:\Users\usr\source\repos\1. Reverse Strings\2. Character Multiplier\bin\Debug\net5.0\Exercise 2. Character Multiplier.dll
+C:\Users\usr\source\repos\1. Reverse Strings\2. Character Multiplier\bin\Debug\net5.0\ref\Exercise 2. Character Multiplier.dll
+C:\Users\usr\source\repos\1. Reverse Strings\2. Character Multiplier\bin\Debug\net5.0\Exercise 2. Character Multiplier.pdb
+C:\Users\usr\source\repos\1. Reverse Strings\2. Character Multiplier\obj\Debug\net5.0\Exercise 2. Character Multiplier.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\1. Reverse Strings\2. Character Multiplier\obj\Debug\net5.0\Exercise 2. Character Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\1. Reverse Strings\2. Character Multiplier\obj\Debug\net5.0\Exercise 2. Character Multiplier.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\1. Reverse Strings\2. Character Multiplier\obj\Debug\net5.0\Exercise 2. Character Multiplier.AssemblyInfo.cs
+C:\Users\usr\source\repos\1. Reverse Strings\2. Character Multiplier\obj\Debug\net5.0\Exercise 2. Character Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\1. Reverse Strings\2. Character Multiplier\obj\Debug\net5.0\Exercise 2. Character Multiplier.dll
+C:\Users\usr\source\repos\1. Reverse Strings\2. Character Multiplier\obj\Debug\net5.0\ref\Exercise 2. Character Multiplier.dll
+C:\Users\usr\source\repos\1. Reverse Strings\2. Character Multiplier\obj\Debug\net5.0\Exercise 2. Character Multiplier.pdb
+C:\Users\usr\source\repos\1. Reverse Strings\2. Character Multiplier\obj\Debug\net5.0\Exercise 2. Character Multiplier.genruntimeconfig.cache

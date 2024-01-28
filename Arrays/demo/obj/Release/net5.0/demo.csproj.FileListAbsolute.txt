@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Arrays\demo\bin\Release\net5.0\demo.exe
+C:\Users\usr\source\repos\Arrays\demo\bin\Release\net5.0\demo.deps.json
+C:\Users\usr\source\repos\Arrays\demo\bin\Release\net5.0\demo.runtimeconfig.json
+C:\Users\usr\source\repos\Arrays\demo\bin\Release\net5.0\demo.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Arrays\demo\bin\Release\net5.0\demo.dll
+C:\Users\usr\source\repos\Arrays\demo\bin\Release\net5.0\ref\demo.dll
+C:\Users\usr\source\repos\Arrays\demo\bin\Release\net5.0\demo.pdb
+C:\Users\usr\source\repos\Arrays\demo\obj\Release\net5.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Arrays\demo\obj\Release\net5.0\demo.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Arrays\demo\obj\Release\net5.0\demo.AssemblyInfo.cs
+C:\Users\usr\source\repos\Arrays\demo\obj\Release\net5.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Arrays\demo\obj\Release\net5.0\demo.dll
+C:\Users\usr\source\repos\Arrays\demo\obj\Release\net5.0\ref\demo.dll
+C:\Users\usr\source\repos\Arrays\demo\obj\Release\net5.0\demo.pdb
+C:\Users\usr\source\repos\Arrays\demo\obj\Release\net5.0\demo.genruntimeconfig.cache
+C:\Users\usr\source\repos\Arrays\demo\obj\Release\net5.0\demo.csproj.AssemblyReference.cache

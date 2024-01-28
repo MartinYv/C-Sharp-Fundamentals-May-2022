@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Exam preparation 22\Problem 3 - P!rates\bin\Debug\net5.0\Problem 3 - P!rates.exe
+C:\Users\usr\source\repos\Exam preparation 22\Problem 3 - P!rates\bin\Debug\net5.0\Problem 3 - P!rates.deps.json
+C:\Users\usr\source\repos\Exam preparation 22\Problem 3 - P!rates\bin\Debug\net5.0\Problem 3 - P!rates.runtimeconfig.json
+C:\Users\usr\source\repos\Exam preparation 22\Problem 3 - P!rates\bin\Debug\net5.0\Problem 3 - P!rates.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Exam preparation 22\Problem 3 - P!rates\bin\Debug\net5.0\Problem 3 - P!rates.dll
+C:\Users\usr\source\repos\Exam preparation 22\Problem 3 - P!rates\bin\Debug\net5.0\ref\Problem 3 - P!rates.dll
+C:\Users\usr\source\repos\Exam preparation 22\Problem 3 - P!rates\bin\Debug\net5.0\Problem 3 - P!rates.pdb
+C:\Users\usr\source\repos\Exam preparation 22\Problem 3 - P!rates\obj\Debug\net5.0\Problem 3 - P!rates.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Exam preparation 22\Problem 3 - P!rates\obj\Debug\net5.0\Problem 3 - P!rates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Exam preparation 22\Problem 3 - P!rates\obj\Debug\net5.0\Problem 3 - P!rates.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Exam preparation 22\Problem 3 - P!rates\obj\Debug\net5.0\Problem 3 - P!rates.AssemblyInfo.cs
+C:\Users\usr\source\repos\Exam preparation 22\Problem 3 - P!rates\obj\Debug\net5.0\Problem 3 - P!rates.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Exam preparation 22\Problem 3 - P!rates\obj\Debug\net5.0\Problem 3 - P!rates.dll
+C:\Users\usr\source\repos\Exam preparation 22\Problem 3 - P!rates\obj\Debug\net5.0\ref\Problem 3 - P!rates.dll
+C:\Users\usr\source\repos\Exam preparation 22\Problem 3 - P!rates\obj\Debug\net5.0\Problem 3 - P!rates.pdb
+C:\Users\usr\source\repos\Exam preparation 22\Problem 3 - P!rates\obj\Debug\net5.0\Problem 3 - P!rates.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\1. Reverse Strings\05. Multiply Big Number\bin\Debug\net5.0\Exersice 05. Multiply Big Number.exe
+C:\Users\usr\source\repos\1. Reverse Strings\05. Multiply Big Number\bin\Debug\net5.0\Exersice 05. Multiply Big Number.deps.json
+C:\Users\usr\source\repos\1. Reverse Strings\05. Multiply Big Number\bin\Debug\net5.0\Exersice 05. Multiply Big Number.runtimeconfig.json
+C:\Users\usr\source\repos\1. Reverse Strings\05. Multiply Big Number\bin\Debug\net5.0\Exersice 05. Multiply Big Number.runtimeconfig.dev.json
+C:\Users\usr\source\repos\1. Reverse Strings\05. Multiply Big Number\bin\Debug\net5.0\Exersice 05. Multiply Big Number.dll
+C:\Users\usr\source\repos\1. Reverse Strings\05. Multiply Big Number\bin\Debug\net5.0\ref\Exersice 05. Multiply Big Number.dll
+C:\Users\usr\source\repos\1. Reverse Strings\05. Multiply Big Number\bin\Debug\net5.0\Exersice 05. Multiply Big Number.pdb
+C:\Users\usr\source\repos\1. Reverse Strings\05. Multiply Big Number\obj\Debug\net5.0\Exersice 05. Multiply Big Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\1. Reverse Strings\05. Multiply Big Number\obj\Debug\net5.0\Exersice 05. Multiply Big Number.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\1. Reverse Strings\05. Multiply Big Number\obj\Debug\net5.0\Exersice 05. Multiply Big Number.AssemblyInfo.cs
+C:\Users\usr\source\repos\1. Reverse Strings\05. Multiply Big Number\obj\Debug\net5.0\Exersice 05. Multiply Big Number.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\1. Reverse Strings\05. Multiply Big Number\obj\Debug\net5.0\Exersice 05. Multiply Big Number.dll
+C:\Users\usr\source\repos\1. Reverse Strings\05. Multiply Big Number\obj\Debug\net5.0\ref\Exersice 05. Multiply Big Number.dll
+C:\Users\usr\source\repos\1. Reverse Strings\05. Multiply Big Number\obj\Debug\net5.0\Exersice 05. Multiply Big Number.pdb
+C:\Users\usr\source\repos\1. Reverse Strings\05. Multiply Big Number\obj\Debug\net5.0\Exersice 05. Multiply Big Number.genruntimeconfig.cache
+C:\Users\usr\source\repos\1. Reverse Strings\05. Multiply Big Number\obj\Debug\net5.0\Exersice 05. Multiply Big Number.csproj.AssemblyReference.cache

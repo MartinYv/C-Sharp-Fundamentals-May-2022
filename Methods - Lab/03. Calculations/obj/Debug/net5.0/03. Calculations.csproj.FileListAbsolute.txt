@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\Methods\03. Calculations\bin\Debug\net5.0\03. Calculations.exe
+C:\Users\usr\source\repos\Methods\03. Calculations\bin\Debug\net5.0\03. Calculations.deps.json
+C:\Users\usr\source\repos\Methods\03. Calculations\bin\Debug\net5.0\03. Calculations.runtimeconfig.json
+C:\Users\usr\source\repos\Methods\03. Calculations\bin\Debug\net5.0\03. Calculations.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Methods\03. Calculations\bin\Debug\net5.0\03. Calculations.dll
+C:\Users\usr\source\repos\Methods\03. Calculations\bin\Debug\net5.0\ref\03. Calculations.dll
+C:\Users\usr\source\repos\Methods\03. Calculations\bin\Debug\net5.0\03. Calculations.pdb
+C:\Users\usr\source\repos\Methods\03. Calculations\obj\Debug\net5.0\03. Calculations.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Methods\03. Calculations\obj\Debug\net5.0\03. Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Methods\03. Calculations\obj\Debug\net5.0\03. Calculations.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Methods\03. Calculations\obj\Debug\net5.0\03. Calculations.AssemblyInfo.cs
+C:\Users\usr\source\repos\Methods\03. Calculations\obj\Debug\net5.0\03. Calculations.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Methods\03. Calculations\obj\Debug\net5.0\03. Calculations.dll
+C:\Users\usr\source\repos\Methods\03. Calculations\obj\Debug\net5.0\ref\03. Calculations.dll
+C:\Users\usr\source\repos\Methods\03. Calculations\obj\Debug\net5.0\03. Calculations.pdb
+C:\Users\usr\source\repos\Methods\03. Calculations\obj\Debug\net5.0\03. Calculations.genruntimeconfig.cache
